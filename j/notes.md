@@ -12,5 +12,5 @@ Close terminal. Open new terminal.
 
 conda install jupyter
 
-jupyter notebook --ip=0.0.0.0 --port=8080 --no-browser
+/home/ubuntu/miniconda2/bin/jupyter notebook --ip=0.0.0.0 --port=8080 --no-browser
 ```
